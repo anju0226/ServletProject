@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BaiduWifi/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduWifi/mysql-connector-java-5.1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduWifi/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
